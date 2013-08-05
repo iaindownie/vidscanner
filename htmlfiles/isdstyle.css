@@ -1,0 +1,15 @@
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+
+
+A:hover {text-decoration: none; color: blue}
